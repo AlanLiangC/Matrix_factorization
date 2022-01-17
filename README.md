@@ -335,9 +335,7 @@ test.Givens_reduction()
 ## URV分解->URV_factorization()
 
 ### 基本思想
-![./URV_factorization.png](attachment:image.png)
-
-### 测试
+### ![URV_factorization](.\URV_factorization.png)测试
 
 
 ```python
@@ -437,16 +435,16 @@ test.linear_equation(b)
 # python MatrixGUI.py
 ```
 
-![GUI](F:\研究生课程\矩阵分析与应用\作业\期末大作业\梁奥-202128014728021\Matrix_factorization\GUI.png)
+![GUI](./GUI.png)
 
 ## 输入矩阵
 
 矩阵采用输入行，列，和矩阵元素进行输入，如下图
 
-## ![Input_GUI](F:\研究生课程\矩阵分析与应用\作业\期末大作业\梁奥-202128014728021\Matrix_factorization\Input_GUI.png)功能测试
+## ![Input_GUI](.\Input_GUI.png)功能测试
 点击相应按钮进行功能测试
 
-# ![Running_GUI](F:\研究生课程\矩阵分析与应用\作业\期末大作业\梁奥-202128014728021\Matrix_factorization\Running_GUI.png)致谢
+# ![Running_GUI](.\Running_GUI.png)致谢
 
 >@Time    : 2021/11/26 22:49
 >@Author  : AlanLiang
